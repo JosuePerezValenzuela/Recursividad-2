@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Factores
+comment1.params=n
+comment1.target=java.util.ArrayList\ factores(int)
+comment2.params=n\ num\ aux
+comment2.target=java.util.ArrayList\ factores(int,\ java.util.ArrayList,\ int)
+comment3.params=
+comment3.target=void\ imprimir()
+numComments=4

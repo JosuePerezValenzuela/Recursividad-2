@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Recurrente
+comment1.params=num
+comment1.target=int\ calcularPromedio(int)
+comment2.params=num\ numeros\ aux
+comment2.target=int\ calcularPromedio(int,\ java.util.ArrayList,\ int)
+comment3.params=num\ numeros
+comment3.target=java.util.ArrayList\ conseguirLosNumeros(int,\ java.util.ArrayList)
+numComments=4
